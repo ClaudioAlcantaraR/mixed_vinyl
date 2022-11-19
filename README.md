@@ -1,6 +1,6 @@
 # Harmonious Development with Symfony 6 
 
-##Project name: mixed_vinyl
+## Project name: mixed_vinyl
 
 ## Cover in this secction
 
